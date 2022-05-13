@@ -2,8 +2,10 @@ Para executar:
 instalar as depedências: npm i
 rodar o servidor: npm start
 
+![Captura de tela de 2022-05-12 21-52-12](https://user-images.githubusercontent.com/74938988/168190246-fa76ad59-d642-4f9d-958a-61282bbb831b.png)
 
 
+![Captura de tela de 2022-05-12 21-51-35](https://user-images.githubusercontent.com/74938988/168190255-9fa1a308-7dd5-4286-b7dd-2515d5535e6e.png)
 
 
 
